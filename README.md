@@ -4,7 +4,7 @@ This Python script is a straightforward port scanner designed to efficiently che
 # Usage
 To use the script, follow this command-line format:
 
-python3 scanner.py <target_host> <start_port> <end_port>
+'python3 scanner.py <target_host> <start_port> <end_port>'
 
 
 <target_host>: Specify the target hostname or IP address.
