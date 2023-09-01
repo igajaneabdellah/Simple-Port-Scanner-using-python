@@ -5,9 +5,8 @@ This Python script is a straightforward port scanner designed to efficiently che
 To use the script, follow this command-line format:
 
 <pre>
-<code>```shell
-python3 scanner.py example.com 50 84
-```
+<code>
+python3 scanner.py <target_host> <start_port> <end_port>
 </code>
 </pre>
 
