@@ -6,7 +6,7 @@ To use the script, follow this command-line format:
 
 <pre>
 <code>
-python3 scanner.py <target_host> <start_port> <end_port>
+python3 scanner.py target_host start_port end_port
 </code>
 </pre>
 
