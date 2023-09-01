@@ -11,7 +11,9 @@ python3 scanner.py target_host start_port end_port
 </pre>
 
 <target_host>: Specify the target hostname or IP address.
+
 <start_port>: Define the starting port of the scan range.
+
 <end_port>: Define the ending port of the scan range.
 
 
